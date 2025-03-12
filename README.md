@@ -1,7 +1,7 @@
 # Excel_Vedaa_Store-_Analysis
 
 Objective: 
-Vrinda store wants to create an annual sales report for 2024. 
+Vedaa store wants to create an annual sales report for 2024. 
 So that, Vrinda can understand their customers and grow 
 more sales in 2025. 
 
